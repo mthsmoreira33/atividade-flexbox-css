@@ -1,0 +1,31 @@
+
+.quadrados {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    height: 100vh;
+}
+.quadrado1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 2px solid black;
+}
+.quadrado2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 2px solid black;
+}
+.circulos{
+    display: flex;
+    justify-content: flex-end;
+}
+.circulo{
+    width: 100px;
+    height: 100px;
+    background-color: goldenrod;
+    border: 2px solid black;
+    border-radius: 100%;
+}

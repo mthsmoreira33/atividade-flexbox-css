@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
+.circulo1 {
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    border: 2px black solid ;
+    border-radius: 100%;
+}
+
+.circulo2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 38, 255);
+    border: 2px black solid ;
+    border-radius: 100%;
+}
